@@ -19,30 +19,22 @@ To view the love letter on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   
+   https://github.com/SakuraintheSkies/Love-Letter
    ```
-2. **Navigate to the project directory:**
+2. **Open the `a letter to my baby.html` file in your web browser:**
    ```bash
-   cd love-letter
-   ```
-3. **Open the `index.html` file in your web browser:**
-   ```bash
-   open index.html
+   (https://github.com/SakuraintheSkies/Love-Letter/blob/main/a%20letter%20to%20my%20baby.html)
    ```
 
 That's it! You can now enjoy the love letter in your browser.
 
 ## Customization
 
-Feel free to customize the content, styles, and layout to personalize the letter for your special someone. You can change the text in the `index.html` file and adjust the styles in the `styles.css` file to match your preferences.
+Feel free to customize the content, styles, and layout to personalize the letter for your special someone. You can change the text in the `a letter to my baby.html` file and adjust the styles in the `letter.css` file to match your preferences.
 
 ## Contributing
 
 Contributions are welcome! If you have ideas for enhancements or improvements, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
